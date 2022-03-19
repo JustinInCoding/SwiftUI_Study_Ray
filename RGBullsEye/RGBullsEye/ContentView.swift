@@ -58,9 +58,9 @@ struct ContentView_Previews: PreviewProvider {
     Group {
       ContentView(guess: RGB())
         .previewDevice("iPhone 8")
-      ContentView(guess: RGB())
-      ContentView(guess: RGB())
-        .previewDevice("iPhone 12 Pro Max")
+//      ContentView(guess: RGB())
+//      ContentView(guess: RGB())
+//        .previewDevice("iPhone 12 Pro Max")
         
 //        .preferredColorScheme(.dark)
     }
